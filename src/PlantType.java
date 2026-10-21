@@ -1,4 +1,5 @@
-package PACKAGE_NAME;
-
 public enum PlantType {
+    PALM,
+    CACTUS,
+    CARNIVOROUS,
 }
